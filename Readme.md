@@ -1,9 +1,6 @@
 # Meta Pixel & Conversions API Integrated Master Guide (2026)
 # Meta Pixel & Conversions API Bütünleşik Master Rehberi (2026)
 
-> **Author / Yazar:** [Cuma Karadaş](https://github.com/cumakaradash)  
-> **Repository:** [cumakaradash/meta-pixel](https://github.com/CumaKaradash/Meta-Pixel)  
-> **License / Lisans:** Open Source (MIT)  
 > **Last Updated / Son Güncelleme:** August 2026 / Ağustos 2026
 
 **🇬🇧 Available in English | 🇹🇷 Türkçe Olarak Mevcut**
