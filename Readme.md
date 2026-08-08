@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Quick Navigation / Hızlı Navigasyon
+## Quick Navigation / Hızlı Navigasyon
 
 - [🇬🇧 **ENGLISH VERSION** / İngilizce Versiyon](#english-version)
 - [🇹🇷 **TURKISH VERSION** / Türkçe Versiyon](#turkish-version)
@@ -18,7 +18,7 @@
 
 # 🇬🇧 ENGLISH VERSION
 
-## 📌 Table of Contents
+## Table of Contents
 
 1. [Introduction and 1:1 Matching Principle](#1-introduction-and-11-matching-principle)
 2. [Meta Events Manager Configuration Settings](#2-meta-events-manager-configuration-settings)
@@ -549,7 +549,7 @@ echo json_encode($result);
 
 # 🇹🇷 TÜRKÇE VERSİYON
 
-## 📌 İçindekiler
+## İçindekiler
 
 1. [Giriş ve 1:1 Eşleşme İlkesi](#1-giriş-ve-11-eşleşme-ilkesi-tr)
 2. [Meta Events Manager Yapılandırma Ayarları](#2-meta-events-manager-yapılandırma-ayarları-tr)
@@ -1082,7 +1082,7 @@ echo json_encode($result);
 
 ---
 
-## 📄 Kaynaklar & Bağlantılar / Resources & Links
+## Kaynaklar & Bağlantılar / Resources & Links
 
 - [Meta for Developers - Conversions API](https://developers.facebook.com/documentation/ads-commerce/conversions-api)
 - [Meta Business Help - EMQ Guide](https://www.facebook.com/business/help/765081237991954)
@@ -1097,7 +1097,7 @@ echo json_encode($result);
 
 ---
 
-> **📖 How to Use This Document / Bu Dokümantı Nasıl Kullanılır:**
+> ** How to Use This Document / Bu Dokümantı Nasıl Kullanılır:**
 > - Use the Quick Navigation links at the top to jump to your preferred language / Tercih ettiğiniz dile gitmek için yukarıdaki Hızlı Navigasyon bağlantılarını kullanın
 > - Each section has cross-references marked with [Link] for easy navigation / Her bölümde kolay navigasyon için işaretlenmiş çapraz referanslar bulunur
 > - For questions, refer to the official Meta Developer documentation / Sorularınız için resmi Meta Developer belgelendirmesine başvurun
