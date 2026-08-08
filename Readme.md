@@ -1,5 +1,4 @@
 # Meta Pixel & Conversions API Integrated Master Guide (2026)
-# Meta Pixel & Conversions API Bütünleşik Master Rehberi (2026)
 
 > **Last Updated / Son Güncelleme:** August 2026 / Ağustos 2026
 
